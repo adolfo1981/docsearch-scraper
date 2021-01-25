@@ -1,0 +1,17 @@
+{
+  "index_name": "PaycorDocs",
+  "start_urls": [
+    "https://secure-quarterly.paycor.com/PaycorDocs"
+  ],
+  "stop_urls": [],
+  "selectors": {
+    "lvl0": ".section h1",
+    "lvl1": ".section h2",
+    "lvl2": ".section h3",
+    "lvl3": ".section h4",
+    "lvl4": ".section h5",
+    "lvl5": ".section h6",
+    "text": ".document p, .document li"
+  },
+  "nb_hits": 10630
+}

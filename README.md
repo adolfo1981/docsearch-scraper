@@ -32,3 +32,15 @@ DocSearch is made of 4 repositories:
 [4]: https://github.com/algolia/docsearch-configs
 [5]: https://github.com/algolia/docsearch-scraper
 [6]: https://github.com/algolia/docsearch-website
+
+## Troubleshooting
+
+https://docsearch.algolia.com/docs/run-your-own/
+https://stackoverflow.com/questions/59572174/no-module-named-dotenv-python-3-8
+
+no module named 'dotenv' python 3.8
+
+EDIT: Solved, if anyone comes across this python3.8 -m pip install python-dotenv worked for me.
+python -m pip install python-dotenv
+
+IMPORTANT: Remember to create a .env file with APPLICATION_ID and API_KEY (Admin from Algolia)

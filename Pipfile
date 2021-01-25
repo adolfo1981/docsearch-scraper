@@ -20,4 +20,4 @@ python-helpscout-v2 = "==1.0.1"
 pylint = "==2.3.1"
 
 [requires]
-python_version = "3.6"
+python_version = "3.8"
