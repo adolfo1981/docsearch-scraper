@@ -11,7 +11,7 @@
     "lvl3": ".section h4",
     "lvl4": ".section h5",
     "lvl5": ".section h6",
-    "text": ".document p, .document li"
+    "text": ".document p, .document li, .document dt, .document dd"
   },
-  "nb_hits": 10630
+  "nb_hits": 10994
 }
